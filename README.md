@@ -1,5 +1,9 @@
 # Análise de mídias sociais e muito mais!
 
+<p align="center">
+  <img src="redes_sociais.jpeg" >
+</p>
+
 **Você se considera uma pessoa imprevisível?**
 
 Por mais imprevisível que você se considere ao aplicarmos as ferramentas disponíveis na **Ciência de Dados**, o que era imprevisível se torna previsível, padrões de comportamento são encontrados e revelam muito sobre você, descobrindo o que realmente pensa, quer e faz.
