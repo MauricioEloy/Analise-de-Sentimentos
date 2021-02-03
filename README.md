@@ -1,7 +1,7 @@
 # Análise de mídias sociais e muito mais!
 
 <p align="center">
-  <img src="redes_sociais.jpeg" >
+  <img src="redes_sociais.png" >
 </p>
 
 **Você se considera uma pessoa imprevisível?**
